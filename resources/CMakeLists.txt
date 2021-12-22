@@ -1,0 +1,5 @@
+﻿configure_file ("Board.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+#configure_file ("maps.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+#configure_file ("maps1.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+#configure_file ("maps2.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+#configure_file ("maps3.txt" ${CMAKE_BINARY_DIR} COPYONLY)
